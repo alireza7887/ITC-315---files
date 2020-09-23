@@ -82,6 +82,6 @@ public class Calculator {
     return first / second;
   }
   
-  
+  System.out.peintln("Great job!")
 }
 
